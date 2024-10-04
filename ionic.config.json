@@ -1,0 +1,7 @@
+{
+  "name": "senor-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
